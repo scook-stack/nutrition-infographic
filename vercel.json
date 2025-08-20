@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/get-nutrition-info.js": {
+      "memory": 1024
+    }
+  }
+}
